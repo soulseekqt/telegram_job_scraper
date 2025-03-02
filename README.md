@@ -66,5 +66,5 @@ This project is licensed under the MIT License.
 Pull requests and issues are welcome! Feel free to improve the bot and suggest new features.
 
 ## Author
-[Your Name](https://github.com/yourusername)
+Jacky Lui (https://github.com/soulseekqt/)
 
